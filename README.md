@@ -89,7 +89,7 @@ WebSocket даёт обновление статуса практически м
 Требуется Docker + Docker Compose.
 
 ```bash
-git clone <repo-url> beebike-crm && cd beebike-crm
+git clone https://github.com/SaveNTech/BeeBikeTestTask beebike-crm && cd beebike-crm
 cp .env.example .env
 docker compose up --build
 ```
