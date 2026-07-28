@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.ruff_cache/
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+frontend/dist/
+*.tsbuildinfo
+
+# Env
+.env
+*.local
+
+# IDE
+.idea/
+.vscode/
+.claude/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# DB
+*.sqlite3
+pgdata/
